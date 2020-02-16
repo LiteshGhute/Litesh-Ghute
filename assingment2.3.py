@@ -9,3 +9,4 @@ hrs = float(input("Enter Hours:"))
 rate= float(input("enter rate:"))
 sum= hrs * rate
 print(sum)
+
